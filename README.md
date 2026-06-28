@@ -3,9 +3,6 @@
 ## Project Goal
 Re-engineer and automate the Know Your Customer (KYC) onboarding workflow to reduce average application processing time from 48 hours to under 5 minutes.
 
-
-# Process Improvement Charter: KYC Onboarding Optimization
-
 ## 1. Problem Statement
 Aura Financial is currently experiencing a 30% abandonment rate during the new customer onboarding process. The current "As-Is" workflow relies on manual intervention: customers upload identity documents, which are routed to a human compliance team for verification and manual watchlist checking. This manual queue creates a bottleneck, resulting in an average processing time of 48 hours per application. 
 
